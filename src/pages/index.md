@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Great Sushi with a conscience
+image: /img/sushi-san-bg.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Velkommen til Sushi San Holte
 mainpitch:
-  title: Why Kaldi
+  title: Why Sushi San
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
+    Sushi San is the Sushi resturant for everyone who believes that great Sushi
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
