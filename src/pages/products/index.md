@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Our Sushi
 image: /img/sushiiiibg.jpg
 heading: Great Sushi with a conscience
 description: >-
