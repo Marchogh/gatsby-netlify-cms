@@ -2,3 +2,12 @@
   color: black;
   font-weight: 500;
 }
+
+.section-demo {
+  background: chocolate;
+  padding: 4em;
+  color: whitesmoke;
+  font-size: 26px;
+  display: flex;
+  justify-content: center;
+}
