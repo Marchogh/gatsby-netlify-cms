@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great Sushi with a conscience
 image: /img/sushi-san-bg.jpg
-heading: Great coffee with a conscience
-subheading: Velkommen til Sushi San Holte
+heading: Great Sushi with a conscience
+subheading: Welcome to Sushi San Holte
 mainpitch:
   title: Why Sushi San
   description: >
@@ -12,8 +12,8 @@ mainpitch:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  Kaldi is the ultimate spot for Sushi lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take Sushi production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
@@ -22,7 +22,7 @@ intro:
       text: >
         We sell green and roasted Sushi that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        variety of Sushi beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/sushi2.jpg
@@ -33,39 +33,39 @@ intro:
         to fall in love with in our shop.
     - image: /img/sushi1.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
+        Love a great cup of Sushi, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        to learn anything you want to know about Sushi roasting and brewing.
         Email us or call the store for details.
     - image: /img/sushi3.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that good Sushi has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
+        space where you can hang out with fellow Sushi lovers and learn about
+        Sushi making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    Kaldi is the ultimate spot for Sushi lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take Sushi
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great Sushi with no compromises
   description: >
     We hold our Sushi to the highest standards from the shrub to the cup. That’s
-    why we’re meticulous and transparent about each step of the coffee’s
+    why we’re meticulous and transparent about each step of the Sushi’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of a paper filter filled with ground Sushi
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A green cup of a Sushi on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Sushi beans
     image: /img/products-grid1.jpg
 ---
 
