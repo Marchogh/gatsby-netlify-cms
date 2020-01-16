@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
     return (
       <>
         <div className="section-demo">
-          <h2>Hi, live demo</h2>
+          
         </div>
         <footer className="footer has-background-black has-text-white-ter">
           <div className="content has-text-centered">
